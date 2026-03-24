@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nisarg Patel</h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
 
-- 👨‍💻 All of my projects are available at [under update](under update)
+- 👨‍💻 All of my projects are available at [portfolio-itsnvs-projects.vercel.app](under update)
 
 - 📫 How to reach me **nisargpatel941@gmail.com**
 
