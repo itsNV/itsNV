@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nisarg Patel</h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
 
-- 👨‍💻 All of my projects are available at [portfolio-itsnvs-projects.vercel.app](under update)
+- 👨‍💻 All of my projects are available at [My Portfolio](portfolio-itsnvs-projects.vercel.app)
 
 - 📫 How to reach me **nisargpatel941@gmail.com**
 
-- 📄 Know about my experiences [under update](under update)
+- 📄 Know about my experiences from  [My Portfolio](portfolio-itsnvs-projects.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
