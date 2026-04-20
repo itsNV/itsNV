@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nisarg Patel</h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-new-l9oy-cxf11gbp0-nisarg-patels-projects-9427f5bf.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-new-l9oy.vercel.app/)
 
 - 📫 How to reach me **nisargpatel941@gmail.com**
 
-- 📄 Know about my experiences from  [My Portfolio](https://portfolio-new-l9oy-cxf11gbp0-nisarg-patels-projects-9427f5bf.vercel.app/)
+- 📄 Know about my experiences from  [My Portfolio](https://portfolio-new-l9oy.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
